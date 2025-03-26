@@ -14,8 +14,8 @@ How to reach me arthurjunio2620@gmail.com
 </div>
 
 ### Top Repositories
-<a href="https://github.com/ArthurJ26/Atividades-Faculdade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurJ26&repo=Atividades-Faculdade&theme=midnight-purple" />
+<a href="https://github.com/ArthurJ26/SiteCakes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurJ26&repo=SiteCakes&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/ArthurJ26/SitePlaylist">
