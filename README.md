@@ -3,7 +3,7 @@
 I'm Arthur Junio
 I’m interested in Being a back-end developer,on focus to improve everyday
 i have basic knowledge in Java, SQL, HTML, CSS and Unity
-I’m currently learning PHP
+I’m currently learning PHP.
 How to reach me arthurjunio2620@gmail.com
 
 ### Stats
